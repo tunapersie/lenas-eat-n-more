@@ -1,4 +1,4 @@
 # Explicitly classify the site's source files in GitHub Linguist.
 *.html linguist-language=HTML
-*.css linguist-language=CSS
+*.css linguist-language=CSS linguist-detectable=true linguist-generated=false
 *.js linguist-language=JavaScript
